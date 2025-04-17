@@ -2,7 +2,7 @@
 
 1. Daniel Felipe Villamor
 2. 
-<img src="grafico.svg">
+<img src="grafico.png">
 
 3. 
 * contenedor del monolito en el puerto 5000 que expone el 8080
